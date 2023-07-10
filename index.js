@@ -10,6 +10,12 @@ const users = [
 ];
 
 function main() {
+    const root =
+        document.getElementById("root");
+    const title =
+        document.createElement('h1');
+    name.innerHTML = "FREELANCERS";
+    root.appendChild(name);
 
 }
 
